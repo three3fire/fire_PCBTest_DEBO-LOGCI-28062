@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=WB-PWM Pin=R34-1
+Removed Pin From Net: NetName=WT-PWM Pin=R36-1
+Removed Pin From Net: NetName=UB-PWM Pin=R42-1
+Removed Pin From Net: NetName=UT-PWM Pin=R44-1
+Added Pin To Net: NetName=UB-PWM Pin=R34-1
+Added Pin To Net: NetName=UT-PWM Pin=R36-1
+Added Pin To Net: NetName=WB-PWM Pin=R42-1
+Added Pin To Net: NetName=WT-PWM Pin=R44-1
+Change Net Name : Old Net Name=UB-PWM-MCU New Net Name=WB-PWM-MCU
+Change Net Name : Old Net Name=UT-PWM-MCU New Net Name=WT-PWM-MCU
+Change Net Name : Old Net Name=WB-PWM-MCU New Net Name=UB-PWM-MCU
+Change Net Name : Old Net Name=WT-PWM-MCU New Net Name=UT-PWM-MCU

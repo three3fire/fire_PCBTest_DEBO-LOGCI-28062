@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=15V电压 Pin=TVS2-1
+Removed Pin From Net: NetName=5V供电检测 Pin=TVS2-5
+Added Pin To Net: NetName=5V供电检测 Pin=TVS2-1
+Added Pin To Net: NetName=15V电压 Pin=TVS2-5

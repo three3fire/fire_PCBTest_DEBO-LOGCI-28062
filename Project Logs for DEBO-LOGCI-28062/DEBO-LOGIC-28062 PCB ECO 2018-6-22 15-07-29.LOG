@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VOLTAGE_W Pin=TVS3-1
+Removed Pin From Net: NetName=VOLTAGE_V Pin=TVS3-4
+Added Pin To Net: NetName=VOLTAGE_V Pin=TVS3-1
+Added Pin To Net: NetName=VOLTAGE_W Pin=TVS3-5

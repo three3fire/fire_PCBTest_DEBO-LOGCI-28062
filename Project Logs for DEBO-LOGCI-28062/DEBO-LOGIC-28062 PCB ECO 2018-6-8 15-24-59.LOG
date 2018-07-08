@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=WT-PWM Pin=U2-9
+Removed Pin From Net: NetName=WB-PWM Pin=U2-10
+Removed Pin From Net: NetName=VB-PWM Pin=U2-83
+Removed Pin From Net: NetName=VT-PWM Pin=U2-84
+Removed Pin From Net: NetName=UB-PWM Pin=U2-86
+Removed Pin From Net: NetName=UT-PWM Pin=U2-87
+Added Component: Designator=R52(0603)
+Added Component: Designator=R53(0603)
+Added Component: Designator=R54(0603)
+Added Component: Designator=R55(0603)
+Added Component: Designator=R56(0603)
+Added Component: Designator=R57(0603)
+Added Pin To Net: NetName=WB-PWM Pin=R52-2
+Added Pin To Net: NetName=WT-PWM Pin=R53-2
+Added Pin To Net: NetName=VB-PWM Pin=R54-2
+Added Pin To Net: NetName=VT-PWM Pin=R55-2
+Added Pin To Net: NetName=UB-PWM Pin=R56-2
+Added Pin To Net: NetName=UT-PWM Pin=R57-2
+Added Pin To Net: NetName=NetR52_1 Pin=R52-1
+Added Pin To Net: NetName=NetR52_1 Pin=U2-10
+Added Net: Name=NetR52_1
+Added Pin To Net: NetName=NetR53_1 Pin=R53-1
+Added Pin To Net: NetName=NetR53_1 Pin=U2-9
+Added Net: Name=NetR53_1
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetR54_1 Pin=U2-83
+Added Net: Name=NetR54_1
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_1 Pin=U2-84
+Added Net: Name=NetR55_1
+Added Pin To Net: NetName=NetR56_1 Pin=R56-1
+Added Pin To Net: NetName=NetR56_1 Pin=U2-86
+Added Net: Name=NetR56_1
+Added Pin To Net: NetName=NetR57_1 Pin=R57-1
+Added Pin To Net: NetName=NetR57_1 Pin=U2-87
+Added Net: Name=NetR57_1
+Added Member To Class: ClassName=U_MCU Member=Component R52 22R
+Added Member To Class: ClassName=U_MCU Member=Component R53 22R
+Added Member To Class: ClassName=U_MCU Member=Component R54 22R
+Added Member To Class: ClassName=U_MCU Member=Component R55 22R
+Added Member To Class: ClassName=U_MCU Member=Component R56 22R
+Added Member To Class: ClassName=U_MCU Member=Component R57 22R

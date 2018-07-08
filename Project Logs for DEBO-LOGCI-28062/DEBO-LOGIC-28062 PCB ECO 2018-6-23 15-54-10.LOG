@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=HALL-C-MCU Pin=U2-53
+Removed Pin From Net: NetName=HALL-B-MCU Pin=U2-54
+Removed Pin From Net: NetName=HALL-A-MCU Pin=U2-55
+Added Pin To Net: NetName=HALL-C-MCU Pin=U2-96
+Added Pin To Net: NetName=HALL-A-MCU Pin=U2-97
+Added Pin To Net: NetName=HALL-B-MCU Pin=U2-98

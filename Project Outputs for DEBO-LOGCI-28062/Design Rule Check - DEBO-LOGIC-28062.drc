@@ -1,0 +1,92 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Administrator\Desktop\DEBO-LOGCI-28062\DEBO-LOGIC-28062.PcbDoc
+Date     : 2018/7/7
+Time     : 15:24:48
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=30mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=7mil) (All),(All)
+   Violation between Pad U4-12(2379.567mil,1529.173mil)  Top Layer and 
+                     Pad U4-11(2405.158mil,1529.173mil)  Top Layer
+   Violation between Pad U4-13(2353.977mil,1529.173mil)  Top Layer and 
+                     Pad U4-12(2379.567mil,1529.173mil)  Top Layer
+   Violation between Pad U4-14(2328.386mil,1529.173mil)  Top Layer and 
+                     Pad U4-13(2353.977mil,1529.173mil)  Top Layer
+   Violation between Pad U4-15(2302.795mil,1529.173mil)  Top Layer and 
+                     Pad U4-14(2328.386mil,1529.173mil)  Top Layer
+   Violation between Pad U4-16(2277.205mil,1529.173mil)  Top Layer and 
+                     Pad U4-15(2302.795mil,1529.173mil)  Top Layer
+   Violation between Pad U4-17(2251.614mil,1529.173mil)  Top Layer and 
+                     Pad U4-16(2277.205mil,1529.173mil)  Top Layer
+   Violation between Pad U4-18(2226.024mil,1529.173mil)  Top Layer and 
+                     Pad U4-17(2251.614mil,1529.173mil)  Top Layer
+   Violation between Pad U4-19(2200.433mil,1529.173mil)  Top Layer and 
+                     Pad U4-18(2226.024mil,1529.173mil)  Top Layer
+   Violation between Pad U4-20(2174.843mil,1529.173mil)  Top Layer and 
+                     Pad U4-19(2200.433mil,1529.173mil)  Top Layer
+   Violation between Pad U4-9(2379.567mil,1312.638mil)  Top Layer and 
+                     Pad U4-10(2405.157mil,1312.638mil)  Top Layer
+   Violation between Pad U4-8(2353.977mil,1312.638mil)  Top Layer and 
+                     Pad U4-9(2379.567mil,1312.638mil)  Top Layer
+   Violation between Pad U4-7(2328.386mil,1312.638mil)  Top Layer and 
+                     Pad U4-8(2353.977mil,1312.638mil)  Top Layer
+   Violation between Pad U4-6(2302.795mil,1312.638mil)  Top Layer and 
+                     Pad U4-7(2328.386mil,1312.638mil)  Top Layer
+   Violation between Pad U4-5(2277.205mil,1312.638mil)  Top Layer and 
+                     Pad U4-6(2302.795mil,1312.638mil)  Top Layer
+   Violation between Pad U4-4(2251.614mil,1312.638mil)  Top Layer and 
+                     Pad U4-5(2277.205mil,1312.638mil)  Top Layer
+   Violation between Pad U4-3(2226.024mil,1312.638mil)  Top Layer and 
+                     Pad U4-4(2251.614mil,1312.638mil)  Top Layer
+   Violation between Pad U4-2(2200.433mil,1312.638mil)  Top Layer and 
+                     Pad U4-3(2226.024mil,1312.638mil)  Top Layer
+   Violation between Pad U4-1(2174.843mil,1312.638mil)  Top Layer and 
+                     Pad U4-2(2200.433mil,1312.638mil)  Top Layer
+   Violation between Pad TVS2-2(1345.591mil,2240mil)  Top Layer and 
+                     Pad TVS2-3(1371.181mil,2240mil)  Top Layer
+   Violation between Pad TVS2-2(1345.591mil,2240mil)  Top Layer and 
+                     Pad TVS2-1(1320mil,2240mil)  Top Layer
+   Violation between Pad TVS1-2(930mil,1950.591mil)  Top Layer and 
+                     Pad TVS1-3(930mil,1976.181mil)  Top Layer
+   Violation between Pad TVS1-2(930mil,1950.591mil)  Top Layer and 
+                     Pad TVS1-1(930mil,1925mil)  Top Layer
+   Violation between Pad TVS3-2(1195.591mil,2240mil)  Top Layer and 
+                     Pad TVS3-3(1221.181mil,2240mil)  Top Layer
+   Violation between Pad TVS3-2(1195.591mil,2240mil)  Top Layer and 
+                     Pad TVS3-1(1170mil,2240mil)  Top Layer
+Rule Violations :24
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 24
+Time Elapsed        : 00:00:01

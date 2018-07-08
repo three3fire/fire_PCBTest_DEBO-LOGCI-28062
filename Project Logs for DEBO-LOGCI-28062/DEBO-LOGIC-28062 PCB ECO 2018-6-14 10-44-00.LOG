@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=15VµÁ—π Pin=TVS2-1
+Added Component: Designator=TVS4(SC70-5L)
+Added Pin To Net: NetName=15VµÁ—π Pin=TVS4-1
+Added Pin To Net: NetName=GND Pin=TVS4-2
+Added Member To Class: ClassName=U_MCU Member=Component TVS4 SMF3.3

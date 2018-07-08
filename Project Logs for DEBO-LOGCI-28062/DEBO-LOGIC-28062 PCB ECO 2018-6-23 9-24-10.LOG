@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=WT-PWM-MCU Pin=U2-9
+Removed Pin From Net: NetName=WB-PWM-MCU Pin=U2-10
+Removed Pin From Net: NetName=VB-PWM-MCU Pin=U2-83
+Removed Pin From Net: NetName=VT-PWM-MCU Pin=U2-84
+Removed Pin From Net: NetName=UB-PWM-MCU Pin=U2-86
+Removed Pin From Net: NetName=UT-PWM-MCU Pin=U2-87
+Added Pin To Net: NetName=WB-PWM-MCU Pin=U2-9
+Added Pin To Net: NetName=WT-PWM-MCU Pin=U2-10
+Added Pin To Net: NetName=VT-PWM-MCU Pin=U2-83
+Added Pin To Net: NetName=VB-PWM-MCU Pin=U2-84
+Added Pin To Net: NetName=UT-PWM-MCU Pin=U2-86
+Added Pin To Net: NetName=UB-PWM-MCU Pin=U2-87

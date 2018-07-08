@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC59_2 Pin=R43-1
+Removed Pin From Net: NetName=CAN-H Pin=R43-2
+Removed Pin From Net: NetName=NetC54_2 Pin=R50-1
+Removed Pin From Net: NetName=CAN-L Pin=R50-2
+Removed Member From Class: ClassName=U_Communication Member=R43
+Removed Member From Class: ClassName=U_Communication Member=R50

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ISEN-U_MCU Pin=TVS1-1
+Removed Pin From Net: NetName=ISEN-W_MCU Pin=TVS1-4
+Added Pin To Net: NetName=ISEN-W_MCU Pin=TVS1-1
+Added Pin To Net: NetName=ISEN-U_MCU Pin=TVS1-4

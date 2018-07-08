@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ISEN-U_MCU Pin=C15-2
+Removed Pin From Net: NetName=ISEN-W_MCU Pin=C23-2
+Removed Pin From Net: NetName=ISEN-U_MCU Pin=R12-1
+Removed Pin From Net: NetName=ISEN-U Pin=R12-2
+Removed Pin From Net: NetName=ISEN-W_MCU Pin=R16-1
+Removed Pin From Net: NetName=ISEN-W Pin=R16-2
+Added Pin To Net: NetName=ISEN-W_MCU Pin=C15-2
+Added Pin To Net: NetName=ISEN-U_MCU Pin=C23-2
+Added Pin To Net: NetName=ISEN-W_MCU Pin=R12-1
+Added Pin To Net: NetName=ISEN-W Pin=R12-2
+Added Pin To Net: NetName=ISEN-U_MCU Pin=R16-1
+Added Pin To Net: NetName=ISEN-U Pin=R16-2

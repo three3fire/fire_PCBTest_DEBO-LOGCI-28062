@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=+24V Pin=P1-2
+Change Component Footprint: Designator=P1 Old Footprint=DF13C-2P-1.25V New Footprint=P3.96mm-2P
+Change Component Comment : Designator=P1 Old Comment=DF13C-2P-1.25V New Comment=P3.96mm-2P
+Added Pin To Net: NetName=+24V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2

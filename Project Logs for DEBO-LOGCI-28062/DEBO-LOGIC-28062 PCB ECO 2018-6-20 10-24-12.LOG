@@ -1,0 +1,411 @@
+Removed Pin From Net: NetName=+5V Pin=C25-2
+Removed Pin From Net: NetName=ADCREF Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=+5V Pin=C43-2
+Removed Pin From Net: NetName=+5V Pin=C47-1
+Removed Pin From Net: NetName=GND Pin=C47-2
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=+5V Pin=C48-2
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=+3.3V Pin=C49-2
+Removed Pin From Net: NetName=+3.3V Pin=C50-1
+Removed Pin From Net: NetName=GND Pin=C50-2
+Removed Pin From Net: NetName=GND Pin=C52-1
+Removed Pin From Net: NetName=GND Pin=C54-1
+Removed Pin From Net: NetName=NetC56_2 Pin=C56-2
+Removed Pin From Net: NetName=+24V Pin=C60-1
+Removed Pin From Net: NetName=HALL-POWER Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=HALL-C Pin=J1-4
+Removed Pin From Net: NetName=HALL-B Pin=J1-5
+Removed Pin From Net: NetName=CAN-L Pin=J4-2
+Removed Pin From Net: NetName=CAN-SHIELD Pin=J4-3
+Removed Pin From Net: NetName=TX Pin=J5-1
+Removed Pin From Net: NetName=RX Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=NetLED2_1 Pin=R17-1
+Removed Pin From Net: NetName=VOLTAGE_U Pin=R18-1
+Removed Pin From Net: NetName=U-OUT- Pin=R18-2
+Removed Pin From Net: NetName=SCL Pin=R27-1
+Removed Pin From Net: NetName=+3.3V Pin=R27-2
+Removed Pin From Net: NetName=SDA Pin=R28-1
+Removed Pin From Net: NetName=+3.3V Pin=R28-2
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=TDO Pin=R30-1
+Removed Pin From Net: NetName=SDA Pin=R31-1
+Removed Pin From Net: NetName=TCK Pin=R32-1
+Removed Pin From Net: NetName=+3.3V Pin=R33-1
+Removed Pin From Net: NetName=+3.3V Pin=R34-2
+Removed Pin From Net: NetName=SCL Pin=R35-1
+Removed Pin From Net: NetName=+15V Pin=R36-1
+Removed Pin From Net: NetName=+5V Pin=R37-2
+Removed Pin From Net: NetName=GND Pin=R38-1
+Removed Pin From Net: NetName=NetR37_1 Pin=R38-2
+Removed Pin From Net: NetName=+5V Pin=R39-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=R39-2
+Removed Pin From Net: NetName=NetC51_2 Pin=R40-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=R40-2
+Removed Pin From Net: NetName=+3.3V Pin=R41-2
+Removed Pin From Net: NetName=GND Pin=R42-1
+Removed Pin From Net: NetName=NetC51_1 Pin=R42-2
+Removed Pin From Net: NetName=CAN-H Pin=R44-1
+Removed Pin From Net: NetName=NetC56_2 Pin=R44-2
+Removed Pin From Net: NetName=NetC56_2 Pin=R48-2
+Removed Pin From Net: NetName=WB-PWM Pin=R52-2
+Removed Pin From Net: NetName=WT-PWM Pin=R53-2
+Removed Pin From Net: NetName=VB-PWM Pin=R54-2
+Removed Pin From Net: NetName=VT-PWM Pin=R55-2
+Removed Pin From Net: NetName=UB-PWM Pin=R56-2
+Removed Pin From Net: NetName=UT-PWM Pin=R57-2
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=GND Pin=U4-7
+Removed Pin From Net: NetName=+3.3V Pin=U4-8
+Removed Pin From Net: NetName=NetR37_1 Pin=U5-4
+Removed Pin From Net: NetName=NetR36_2 Pin=U5-5
+Removed Pin From Net: NetName=+24V Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U8-2
+Removed Pin From Net: NetName=+5V Pin=U8-4
+Removed Pin From Net: NetName=+3.3V Pin=U8-5
+Removed Pin From Net: NetName=+3.3V Pin=U8-6
+Removed Pin From Net: NetName=+3.3V Pin=U8-7
+Change Component Footprint: Designator=J4 Old Footprint=5.08A-3PIN New Footprint=2.54-6pin-渀
+Change Component Footprint: Designator=C25 Old Footprint=0603 New Footprint=c0603
+Change Component Footprint: Designator=C53 Old Footprint=0603 New Footprint=c0603
+Change Component Footprint: Designator=C54 Old Footprint=0603 New Footprint=c0603
+Change Component Footprint: Designator=R17 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R39 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C43 Old Footprint=1210 New Footprint=c0603
+Change Component Footprint: Designator=R44 Old Footprint=2010 New Footprint=0603
+Change Component Footprint: Designator=J1 Old Footprint=5569-06 New Footprint=2.54-6pin-渀
+Change Component Footprint: Designator=C52 Old Footprint=c0603 New Footprint=SMD3528-B
+Change Component Footprint: Designator=J3 Old Footprint=IDC20 New Footprint=2.54-20pin-渀
+Change Component Footprint: Designator=D1 Old Footprint=SMA New Footprint=SMC
+Change Component Footprint: Designator=U8 Old Footprint=SOP-8 New Footprint=SOT-223
+Change Component Footprint: Designator=U4 Old Footprint=SOP-8 New Footprint=TSSOP-20
+Change Component Comment : Designator=R44 Old Comment=1K3/2010 New Comment=22次
+Change Component Comment : Designator=R42 Old Comment=1K/0603 New Comment=22次
+Change Component Comment : Designator=R40 Old Comment=1K/0603 New Comment=22次
+Change Component Comment : Designator=R29 Old Comment=2K2 New Comment=3K3
+Change Component Comment : Designator=R17 Old Comment=2K2 New Comment=10K
+Change Component Comment : Designator=R28 Old Comment=2K New Comment=3K3
+Change Component Comment : Designator=R27 Old Comment=2K New Comment=3K3
+Change Component Comment : Designator=C52 Old Comment=3.3nF/C0G New Comment=10uF/16V/鍏
+Change Component Comment : Designator=J4 Old Comment=5.8A-3PIN New Comment=Header 3X2A
+Change Component Comment : Designator=R41 Old Comment=5K1/1% New Comment=22次
+Change Component Comment : Designator=R34 Old Comment=10K New Comment=22次
+Change Component Comment : Designator=R33 Old Comment=10K New Comment=22次
+Change Component Comment : Designator=R38 Old Comment=10K/1% New Comment=22次
+Change Component Comment : Designator=R36 Old Comment=10K/0603 New Comment=22次
+Change Component Comment : Designator=R39 Old Comment=10R New Comment=22次
+Change Component Comment : Designator=R31 Old Comment=22R New Comment=3K3
+Change Component Comment : Designator=R35 Old Comment=22R New Comment=22次
+Change Component Comment : Designator=C43 Old Comment=22uF/25V/X7R New Comment=100nF/50V/X7R
+Change Component Comment : Designator=U4 Old Comment=24LC64-E/SN New Comment=74AHCT541PW
+Change Component Comment : Designator=R18 Old Comment=27K New Comment=100R
+Change Component Comment : Designator=C54 Old Comment=27pF New Comment=100nF
+Change Component Comment : Designator=R37 Old Comment=54K9/1% New Comment=22次
+Change Component Comment : Designator=C35 Old Comment=100nF New Comment=100nF/50V
+Change Component Comment : Designator=C25 Old Comment=100nF/50V New Comment=100nF
+Change Component Comment : Designator=R32 Old Comment=100R New Comment=3K3
+Change Component Comment : Designator=R30 Old Comment=100R New Comment=3K3
+Change Component Comment : Designator=D1 Old Comment=ES1D New Comment=ER3D
+Change Component Comment : Designator=U8 Old Comment=TPS7333QD New Comment=LM1117-3.3
+Change Component Designator: OldDesignator=C20 NewDesignator=C21
+Change Component Designator: OldDesignator=C21 NewDesignator=C22
+Change Component Designator: OldDesignator=C22 NewDesignator=C23
+Change Component Designator: OldDesignator=C23 NewDesignator=C24
+Change Component Designator: OldDesignator=C24 NewDesignator=C26
+Change Component Designator: OldDesignator=C26 NewDesignator=C27
+Change Component Designator: OldDesignator=C27 NewDesignator=C28
+Change Component Designator: OldDesignator=C28 NewDesignator=C29
+Change Component Designator: OldDesignator=C29 NewDesignator=C30
+Change Component Designator: OldDesignator=C30 NewDesignator=C31
+Change Component Designator: OldDesignator=C31 NewDesignator=C32
+Change Component Designator: OldDesignator=C32 NewDesignator=C33
+Change Component Designator: OldDesignator=C33 NewDesignator=C34
+Change Component Designator: OldDesignator=C34 NewDesignator=C36
+Change Component Designator: OldDesignator=C36 NewDesignator=C38
+Change Component Designator: OldDesignator=C37 NewDesignator=C39
+Change Component Designator: OldDesignator=C38 NewDesignator=C41
+Change Component Designator: OldDesignator=C39 NewDesignator=C42
+Change Component Designator: OldDesignator=C40 NewDesignator=C44
+Change Component Designator: OldDesignator=C41 NewDesignator=C45
+Change Component Designator: OldDesignator=C42 NewDesignator=C46
+Change Component Designator: OldDesignator=C44 NewDesignator=C48
+Change Component Designator: OldDesignator=C45 NewDesignator=C49
+Change Component Designator: OldDesignator=C46 NewDesignator=C50
+Change Component Designator: OldDesignator=C55 NewDesignator=C57
+Change Component Designator: OldDesignator=C56 NewDesignator=C58
+Change Component Designator: OldDesignator=C57 NewDesignator=C59
+Change Component Designator: OldDesignator=C58 NewDesignator=C60
+Change Component Designator: OldDesignator=C59 NewDesignator=C61
+Change Component Designator: OldDesignator=C60 NewDesignator=C40
+Change Component Designator: OldDesignator=C61 NewDesignator=C20
+Change Component Designator: OldDesignator=C67 NewDesignator=C63
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R22
+Change Component Designator: OldDesignator=R20 NewDesignator=R23
+Change Component Designator: OldDesignator=R21 NewDesignator=R24
+Change Component Designator: OldDesignator=R22 NewDesignator=R25
+Change Component Designator: OldDesignator=R23 NewDesignator=R26
+Change Component Designator: OldDesignator=R24 NewDesignator=R45
+Change Component Designator: OldDesignator=R25 NewDesignator=R46
+Change Component Designator: OldDesignator=R26 NewDesignator=R47
+Change Component Designator: OldDesignator=R43 NewDesignator=R14
+Change Component Designator: OldDesignator=R45 NewDesignator=R64
+Change Component Designator: OldDesignator=R46 NewDesignator=R65
+Change Component Designator: OldDesignator=R47 NewDesignator=R66
+Change Component Designator: OldDesignator=R48 NewDesignator=R67
+Change Component Designator: OldDesignator=R49 NewDesignator=R68
+Change Component Designator: OldDesignator=R51 NewDesignator=R69
+Change Component Designator: OldDesignator=R153 NewDesignator=R75
+Change Component Designator: OldDesignator=R154 NewDesignator=R71
+Change Component Designator: OldDesignator=R155 NewDesignator=R74
+Change Component Designator: OldDesignator=R156 NewDesignator=R70
+Change Component Designator: OldDesignator=R157 NewDesignator=R72
+Change Component Designator: OldDesignator=R158 NewDesignator=R73
+Change Component Designator: OldDesignator=R159 NewDesignator=R76
+Change Component Designator: OldDesignator=R160 NewDesignator=R77
+Change Component Designator: OldDesignator=TVS3 NewDesignator=TVS4
+Change Component Designator: OldDesignator=TVS4 NewDesignator=TVS3
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U10
+Added Component: Designator=C37(0603)
+Added Component: Designator=C47(1210)
+Added Component: Designator=C55(0603)
+Added Component: Designator=C56(0603)
+Added Component: Designator=C62(0603)
+Added Component: Designator=D3(SMA)
+Added Component: Designator=R20(0805)
+Added Component: Designator=R21(0603)
+Added Component: Designator=R43(0603)
+Added Component: Designator=R48(0603)
+Added Component: Designator=R49(0603)
+Added Component: Designator=R50(0603)
+Added Component: Designator=R51(0603)
+Added Component: Designator=R52(0603)
+Added Component: Designator=R53(0603)
+Added Component: Designator=R54(0603)
+Added Component: Designator=R55(0603)
+Added Component: Designator=R56(0603)
+Added Component: Designator=R57(0603)
+Added Component: Designator=R58(0603)
+Added Component: Designator=R59(0603)
+Added Component: Designator=R60(0805)
+Added Component: Designator=R61(0603)
+Added Component: Designator=R62(0603)
+Added Component: Designator=R63(2010)
+Added Component: Designator=U5(SOP-8)
+Added Pin To Net: NetName=+5V Pin=C35-2
+Added Pin To Net: NetName=ADCREF Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=+5V Pin=C47-2
+Added Pin To Net: NetName=+3.3V Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=+3.3V Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=+5V Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=NetC56_2 Pin=C56-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=+5V Pin=C62-2
+Added Pin To Net: NetName=+24V Pin=D1-1
+Added Pin To Net: NetName=HALL-POWER Pin=D3-2
+Added Pin To Net: NetName=HALL-C Pin=J1-2
+Added Pin To Net: NetName=HALL-B Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=CAN-SHIELD Pin=J4-2
+Added Pin To Net: NetName=CAN-L Pin=J4-3
+Added Pin To Net: NetName=RX Pin=J4-4
+Added Pin To Net: NetName=TX Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=NetLED2_1 Pin=R20-1
+Added Pin To Net: NetName=+3.3V Pin=R20-2
+Added Pin To Net: NetName=VOLTAGE_U Pin=R21-1
+Added Pin To Net: NetName=U-OUT- Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R32-2
+Added Pin To Net: NetName=WB-PWM Pin=R34-1
+Added Pin To Net: NetName=WT-PWM Pin=R36-1
+Added Pin To Net: NetName=VB-PWM Pin=R38-1
+Added Pin To Net: NetName=VT-PWM Pin=R40-1
+Added Pin To Net: NetName=UB-PWM Pin=R42-1
+Added Pin To Net: NetName=UT-PWM Pin=R44-1
+Added Pin To Net: NetName=SCL Pin=R48-1
+Added Pin To Net: NetName=+3.3V Pin=R48-2
+Added Pin To Net: NetName=SDA Pin=R49-1
+Added Pin To Net: NetName=+3.3V Pin=R49-2
+Added Pin To Net: NetName=GND Pin=R50-1
+Added Pin To Net: NetName=TDO Pin=R51-1
+Added Pin To Net: NetName=SDA Pin=R52-1
+Added Pin To Net: NetName=TCK Pin=R53-1
+Added Pin To Net: NetName=+3.3V Pin=R54-1
+Added Pin To Net: NetName=+3.3V Pin=R55-2
+Added Pin To Net: NetName=SCL Pin=R56-1
+Added Pin To Net: NetName=+15V Pin=R57-1
+Added Pin To Net: NetName=+5V Pin=R58-2
+Added Pin To Net: NetName=GND Pin=R59-1
+Added Pin To Net: NetName=+5V Pin=R60-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R60-2
+Added Pin To Net: NetName=NetC51_2 Pin=R61-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R61-2
+Added Pin To Net: NetName=GND Pin=R62-1
+Added Pin To Net: NetName=NetC51_1 Pin=R62-2
+Added Pin To Net: NetName=CAN-H Pin=R63-1
+Added Pin To Net: NetName=NetC56_2 Pin=T1-2
+Added Pin To Net: NetName=NetR37_1 Pin=U4-4
+Added Pin To Net: NetName=NetR36_2 Pin=U4-17
+Added Pin To Net: NetName=+5V Pin=U4-20
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=+3.3V Pin=U5-8
+Added Pin To Net: NetName=+3.3V Pin=U8-2
+Added Pin To Net: NetName=+3.3V Pin=U8-2
+Added Pin To Net: NetName=NetC56_2 Pin=U9-6
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC22_1
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC26_2
+Change Net Name : Old Net Name=NetC37_1 New Net Name=NetC39_1
+Change Net Name : Old Net Name=NetC37_2 New Net Name=NetC39_2
+Change Net Name : Old Net Name=NetC55_1 New Net Name=NetC57_1
+Change Net Name : Old Net Name=NetC59_2 New Net Name=NetC61_2
+Change Net Name : Old Net Name=NetC61_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC67_2 New Net Name=NetC63_2
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetR45_1 New Net Name=NetR64_1
+Change Net Name : Old Net Name=NetR46_1 New Net Name=NetR65_1
+Change Net Name : Old Net Name=NetR47_2 New Net Name=NetR66_2
+Change Net Name : Old Net Name=NetR49_2 New Net Name=NetR68_2
+Change Net Name : Old Net Name=NetR153_1 New Net Name=NetR75_1
+Change Net Name : Old Net Name=NetR154_1 New Net Name=NetR71_1
+Change Net Name : Old Net Name=NetR157_1 New Net Name=NetR72_1
+Change Net Name : Old Net Name=NetR159_1 New Net Name=NetR76_1
+Added Pin To Net: NetName=HGND Pin=C35-1
+Added Pin To Net: NetName=HGND Pin=U4-1
+Added Pin To Net: NetName=HGND Pin=U4-10
+Added Pin To Net: NetName=HGND Pin=U4-19
+Added Net: Name=HGND
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC25_2 Pin=R17-1
+Added Pin To Net: NetName=NetC25_2 Pin=R18-1
+Added Net: Name=NetC25_2
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=NetC40_1 Pin=C43-2
+Added Pin To Net: NetName=NetC40_1 Pin=D1-2
+Added Pin To Net: NetName=NetC40_1 Pin=U7-1
+Added Net: Name=NetC40_1
+Added Pin To Net: NetName=NetC58_2 Pin=C58-2
+Added Pin To Net: NetName=NetC58_2 Pin=R63-2
+Added Pin To Net: NetName=NetC58_2 Pin=R67-2
+Added Net: Name=NetC58_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=Q1-3
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R46-1
+Added Pin To Net: NetName=NetJ3_2 Pin=R50-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_7 Pin=J3-7
+Added Pin To Net: NetName=NetJ3_7 Pin=R51-2
+Added Net: Name=NetJ3_7
+Added Pin To Net: NetName=NetJ3_9 Pin=J3-9
+Added Pin To Net: NetName=NetJ3_9 Pin=J3-11
+Added Pin To Net: NetName=NetJ3_9 Pin=R53-2
+Added Net: Name=NetJ3_9
+Added Pin To Net: NetName=NetJ3_13 Pin=J3-13
+Added Pin To Net: NetName=NetJ3_13 Pin=R54-2
+Added Net: Name=NetJ3_13
+Added Pin To Net: NetName=NetJ3_14 Pin=J3-14
+Added Pin To Net: NetName=NetJ3_14 Pin=R55-1
+Added Net: Name=NetJ3_14
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=U4-2
+Added Net: Name=NetR33_1
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=NetR34_2 Pin=U4-18
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_1 Pin=U4-3
+Added Net: Name=NetR35_1
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=U4-16
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=U4-5
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=U4-15
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=NetR41_1 Pin=U4-6
+Added Net: Name=NetR41_1
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Pin To Net: NetName=NetR42_2 Pin=U4-14
+Added Net: Name=NetR42_2
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_1 Pin=U4-7
+Added Net: Name=NetR43_1
+Added Pin To Net: NetName=NetR44_2 Pin=R44-2
+Added Pin To Net: NetName=NetR44_2 Pin=U4-13
+Added Net: Name=NetR44_2
+Added Pin To Net: NetName=NetR52_2 Pin=R52-2
+Added Pin To Net: NetName=NetR52_2 Pin=U5-5
+Added Net: Name=NetR52_2
+Added Pin To Net: NetName=NetR56_2 Pin=R56-2
+Added Pin To Net: NetName=NetR56_2 Pin=U5-6
+Added Net: Name=NetR56_2
+Added Pin To Net: NetName=NetR57_2 Pin=R57-2
+Added Pin To Net: NetName=NetR57_2 Pin=U6-5
+Added Net: Name=NetR57_2
+Added Pin To Net: NetName=NetR58_1 Pin=R58-1
+Added Pin To Net: NetName=NetR58_1 Pin=R59-2
+Added Pin To Net: NetName=NetR58_1 Pin=U6-4
+Added Net: Name=NetR58_1
+Added Pin To Net: NetName=UB-PWM-MCU Pin=R31-1
+Added Pin To Net: NetName=UB-PWM-MCU Pin=R41-2
+Added Pin To Net: NetName=UB-PWM-MCU Pin=U2-86
+Added Net: Name=UB-PWM-MCU
+Added Pin To Net: NetName=UT-PWM-MCU Pin=R32-1
+Added Pin To Net: NetName=UT-PWM-MCU Pin=R43-2
+Added Pin To Net: NetName=UT-PWM-MCU Pin=U2-87
+Added Net: Name=UT-PWM-MCU
+Added Pin To Net: NetName=VB-PWM-MCU Pin=R29-1
+Added Pin To Net: NetName=VB-PWM-MCU Pin=R37-2
+Added Pin To Net: NetName=VB-PWM-MCU Pin=U2-83
+Added Net: Name=VB-PWM-MCU
+Added Pin To Net: NetName=VT-PWM-MCU Pin=R30-1
+Added Pin To Net: NetName=VT-PWM-MCU Pin=R39-2
+Added Pin To Net: NetName=VT-PWM-MCU Pin=U2-84
+Added Net: Name=VT-PWM-MCU
+Added Pin To Net: NetName=WB-PWM-MCU Pin=R27-1
+Added Pin To Net: NetName=WB-PWM-MCU Pin=R33-2
+Added Pin To Net: NetName=WB-PWM-MCU Pin=U2-10
+Added Net: Name=WB-PWM-MCU
+Added Pin To Net: NetName=WT-PWM-MCU Pin=R28-1
+Added Pin To Net: NetName=WT-PWM-MCU Pin=R35-2
+Added Pin To Net: NetName=WT-PWM-MCU Pin=U2-9
+Added Net: Name=WT-PWM-MCU
+Added Pin To Net: NetName=XRS Pin=R18-2
+Added Pin To Net: NetName=XRS Pin=U2-11
+Added Net: Name=XRS
+Added Class: Name=U_Communication
+Added Class: Name=U_MCU
+Added Class: Name=U_POWER

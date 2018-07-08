@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VOLTAGE_U Pin=TVS1-5
+Removed Pin From Net: NetName=15VµÁ—π Pin=TVS4-1
+Added Pin To Net: NetName=15VµÁ—π Pin=TVS2-1
+Added Pin To Net: NetName=VOLTAGE_U Pin=TVS4-1

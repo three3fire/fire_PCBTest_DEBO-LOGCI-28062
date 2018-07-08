@@ -1,0 +1,7 @@
+Record=SubProject|ProjectPath=SMF3.3
+Record=SubProject|ProjectPath=SMF3.3
+Record=SubProject|ProjectPath=SMF3.3
+Record=SheetSymbol|SourceDocument=ALL.SchDoc|Designator=U_Communication|SchDesignator=U_Communication|FileName=Communication.SchDoc|SymbolType=Normal|RawFileName=Communication.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=ALL.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=ALL.SchDoc|Designator=U_POWER|SchDesignator=U_POWER|FileName=POWER.SchDoc|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=ALL.SchDoc

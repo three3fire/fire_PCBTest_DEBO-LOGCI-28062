@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=U_Communication Member=C20
+Removed Member From Class: ClassName=U_MCU Member=C39
+Removed Member From Class: ClassName=U_Communication Member=C40
+Removed Member From Class: ClassName=U_MCU Member=C41
+Removed Member From Class: ClassName=U_MCU Member=R64
+Removed Member From Class: ClassName=U_MCU Member=R65
+Removed Member From Class: ClassName=U_MCU Member=R66
+Removed Member From Class: ClassName=U_MCU Member=R67
+Removed Member From Class: ClassName=U_MCU Member=R68
+Removed Member From Class: ClassName=U_MCU Member=R69
+Removed Member From Class: ClassName=U_Communication Member=TVS3
+Removed Member From Class: ClassName=U_MCU Member=TVS4
+Removed Member From Class: ClassName=U_MCU Member=U6
+Removed Member From Class: ClassName=U_POWER Member=U10
+Change Component Footprint: Designator=J3 Old Footprint=DC3-14P New Footprint=2.54-14pin-’Î
+Added Member To Class: ClassName=U_MCU Member=Component C20 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C37 100nF
+Added Member To Class: ClassName=U_POWER Member=Component C39 100nF/50V/X7R
+Added Member To Class: ClassName=U_POWER Member=Component C40 470uF/50V
+Added Member To Class: ClassName=U_POWER Member=Component C41 100nF/50V/X7R
+Added Member To Class: ClassName=U_Communication Member=Component C55 100nF
+Added Member To Class: ClassName=U_Communication Member=Component C56 27pF
+Added Member To Class: ClassName=U_MCU Member=Component R20 2K2
+Added Member To Class: ClassName=U_MCU Member=Component R21 27K
+Added Member To Class: ClassName=U_MCU Member=Component R43 22¶∏
+Added Member To Class: ClassName=U_MCU Member=Component R48 2K
+Added Member To Class: ClassName=U_MCU Member=Component R49 2K
+Added Member To Class: ClassName=U_MCU Member=Component R51 100R
+Added Member To Class: ClassName=U_MCU Member=Component TVS3 SMF3.3
+Added Member To Class: ClassName=U_Communication Member=Component TVS4 NUP3105
+Added Member To Class: ClassName=U_MCU Member=Component U5 24LC64-E/SN
+Added Member To Class: ClassName=U_POWER Member=Component U6 TPS562201
